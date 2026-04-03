@@ -58,15 +58,15 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 
 ### Customer Segment Distribution
 
-![Segments](images/customer_segments.png)
+![Segments](customer_segments.png)
 
 ### Revenue by Segment
 
-![Revenue](images/revenue_by_segment.png)
+![Revenue](revenue_by_segment.png)
 
 ### Frequency vs Monetary
 
-![Scatter](images/frequency_vs_monetary.png)
+![Scatter](frequency_vs_monetary.png)
 
 ---
 
